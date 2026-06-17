@@ -1,8 +1,8 @@
 class Gotpm < Formula
   desc "A minimal package manager for Typst"
   homepage "https://github.com/npikall/gotpm"
-  url "https://github.com/npikall/gotpm/archive/refs/tags/v0.3.12.tar.gz"
-  sha256 "da0c5a8340cfebed91f8ee12be491a92b38e44147780bf84a8bebed12a71e7a4"
+  url "https://github.com/npikall/gotpm/archive/refs/tags/v0.3.13.tar.gz"
+  sha256 "fbb55679c171d828566ffaed2a4cdfa40b2ab5886812367c7fe4a65f43b5f5c2"
   license "MIT"
 
   depends_on "go" => :build
